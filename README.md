@@ -1,3 +1,7 @@
+# Python Studio - Python Coding
+
+## Python Coding Platform
+
 This app turns your iOS device into a portable Python programming studio.
 
 This app turns your iOS device into a portable Python programming studio.
@@ -16,7 +20,8 @@ Highlights:
 
 ● Flexible multi-window support: Open multiple windows at once. Drag to adjust positions, resize with ease, compare code side-by-side, or reference materials while coding—handling multiple tasks has never been smoother.
 
-[AppStore](https://apps.apple.com/us/app/python-studio-python-coding/id6749899391?platform=iphone)
-![Screenshots][img-id]
-![s](https://www.dazhuogroup.com/codemaster/images/screenshots.png) 
+# [Download from the App Store](https://apps.apple.com/us/app/python-studio-python-coding/id6749899391?platform=iphone)
+
+ 
+![Screenshots](https://www.dazhuogroup.com/codemaster/images/screenshots.png) 
 
