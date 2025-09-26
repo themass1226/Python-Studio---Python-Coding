@@ -2,9 +2,8 @@
 
 ## Python Coding Platform
 
-This app turns your iOS device into a portable Python programming studio.
+### This app turns your iOS device into a portable Python programming studio.
 
-This app turns your iOS device into a portable Python programming studio.
 
 Designed specifically for iPhone and iPad, it brings convenience and power to Python coding on mobile! Whether you're a beginner exploring the world of code or an experienced developer, you’ll enjoy a smooth and efficient coding experience—intuitive interaction lowers the learning curve, while rich features cover all aspects of development. Every keystroke becomes a joy, unlocking the freedom to code anytime, anywhere.
 
